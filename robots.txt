@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eenopohfo.wrongfaster.com/sitemap.xml
